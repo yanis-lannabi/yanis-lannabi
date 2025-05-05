@@ -3,7 +3,7 @@
 
 
 
-Je suis un **développeur web et mobile** passionné, actuellement en formation de **Concepteur Développeur d'Applications** à l'ETNA (école d’alternance en informatique). J'aime créer des applications innovantes, résoudre des problèmes complexes et travailler avec des technologies modernes.
+Je suis un **développeur web et applicatif** passionné, actuellement en formation de **Concepteur Développeur d'Applications** à l'ETNA (école d’alternance en informatique). J'aime créer des applications innovantes, résoudre des problèmes complexes et travailler avec des technologies modernes.
 
 ---
 
